@@ -5,12 +5,15 @@ This is a Kotlin-based Android application developed as a technical task for Dev
 
 ## Features
 1. **Never Ending Service (`CounterService`):** A foreground service that continuously runs in the background, incrementing a counter. It uses a wake lock to ensure the service keeps running even when the device is idle.
+
 ![service](https://github.com/Hasnain17/DevSkyTasks/assets/62245237/d9f1e140-8780-4ead-8967-a338d56a0916)
 
 2. **Canvas Drawing (`CanvasActivity`):** An interactive canvas that allows users to draw with different shapes and colors. This feature demonstrates the use of custom views and handling touch events in Android.
+
 ![canvas](https://github.com/Hasnain17/DevSkyTasks/assets/62245237/83decb73-fdf7-4504-8072-6b13783e49dc)
 
 3. **Display Over Other Apps (`Window` class):** The app can display custom overlays on top of other applications. It showcases the use of `WindowManager` for creating floating windows and managing their layout and visibility.
+
 ![diplay](https://github.com/Hasnain17/DevSkyTasks/assets/62245237/f70f62e0-8922-4d62-837f-1d2d6a22e2d9)
 
 ## Key Concepts
